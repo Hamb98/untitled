@@ -14,6 +14,5 @@ public class DataProviderTest {
         public void myTest (int a, int b, int result) {
             int sum = a + b;
             Assert.assertEquals(result, sum);
-
     }
 }
