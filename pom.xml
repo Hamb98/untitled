@@ -18,7 +18,6 @@
         <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-maven -->
 
 
-
         <!-- https://mvnrepository.com/artifact/io.qameta.allure/allure-testng -->
         <dependency>
             <groupId>io.qameta.allure</groupId>
